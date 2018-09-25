@@ -3,7 +3,7 @@
 使用方法：
 使用root用户登录，运行以下命令：
 
-- wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocksR.sh && chmod +x shadowsocksR.sh && ./shadowsocksR.sh 2>&1 | tee shadowsocksR.log
+- wget --no-check-certificate https://raw.githubusercontent.com/ggsjj/shadowsocks_install/master/shadowsocksR.sh && chmod +x shadowsocksR.sh && ./shadowsocksR.sh 2>&1 | tee shadowsocksR.log
 
 卸载方法：
 使用 root 用户登录，运行以下命令：
